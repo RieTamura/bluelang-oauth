@@ -1,8 +1,11 @@
 {
+  "client_id": "https://raw.githubusercontent.com/RieTamura/bluelang-oauth/main/.well-known/atproto_client_metadata.json",
   "client_name": "Bluesky LangApp Dev",
-  "client_uri": "https://yourdomain-or-github.io/yourrepo",
+  "client_uri": "https://rietamura.github.io/bluelang-oauth",
+  "logo_uri": "https://rietamura.github.io/bluelang-oauth/logo.png",
   "redirect_uris": [
-    "exp://192.168.11.27:8081"
+  "exp://192.168.11.27:8081",
+  "myapp://oauth/callback"
   ],
   "scope": "all",
   "grant_types": ["authorization_code", "refresh_token"],
