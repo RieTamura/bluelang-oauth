@@ -1,6 +1,6 @@
 {
   "client_name": "Bluesky LangApp Dev",
-  "client_id": "https://rietamura.github.io/bluelang-oauth/.well-known/atproto_client_metadata.json",
+  "client_id": "https://rietamura.github.io/bluelang-oauth",
   "client_uri": "https://rietamura.github.io/bluelang-oauth",
   "logo_uri": "https://rietamura.github.io/bluelang-oauth/logo.png",
   "redirect_uris": [
