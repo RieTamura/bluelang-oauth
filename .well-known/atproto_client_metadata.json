@@ -7,6 +7,7 @@
     "http://127.0.0.1/callback"
   ],
   "scope": "all atproto",
+  "dpop_bound_access_tokens": true,
   "grant_types": ["authorization_code","refresh_token"],
   "response_types": ["code"],
   "application_type": "native",
