@@ -9,12 +9,7 @@
     "https://auth.expo.io/@rietamura/bluesky-langapp"
   ],
   "scope": "atproto transition:generic transition:chat.bsky",
-  "grant_types": [
-    "authorization_code",
-    "refresh_token"
-  ],
-  "response_types": [
-    "code"
-  ],
+  "grant_types": ["authorization_code","refresh_token"],
+  "response_types": ["code"],
   "token_endpoint_auth_method": "none"
 }
