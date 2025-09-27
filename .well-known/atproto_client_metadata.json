@@ -8,7 +8,7 @@
   "redirect_uris": [
     "https://auth.expo.io/@rietamura/bluesky-langapp"
   ],
-  "scope": "all",
+  "scope": "atproto transition:generic transition:chat.bsky",
   "grant_types": [
     "authorization_code",
     "refresh_token"
