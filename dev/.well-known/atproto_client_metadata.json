@@ -1,7 +1,9 @@
 {
   "client_id": "https://rietamura.github.io/bluelang-oauth/dev/.well-known/atproto_client_metadata.json",
   "client_name": "Bluesky LangApp Dev (Local HTTP)",
-  "application_type": "web",
+  "client_uri": "https://rietamura.github.io/bluelang-oauth",
+  "logo_uri": "https://rietamura.github.io/bluelang-oauth/logo.png",
+  "application_type": "native",
   "dpop_bound_access_tokens": true,
   "redirect_uris": [
     "http://127.0.0.1:8787/dev/callback"
