@@ -6,7 +6,9 @@
   "application_type": "native",
   "dpop_bound_access_tokens": true,
   "redirect_uris": [
-    "http://127.0.0.1:8787/dev/callback"
+    "blueskylearning://auth",
+    "https://auth.expo.io/@rietamura/bluesky-langapp",
+    "exp://localhost:8081"
   ],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
